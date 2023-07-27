@@ -105,8 +105,9 @@ aside span {
     color: #9e9ea0;
 }
 footer p {
-    color: #bebebf;
-font-size: 2rem;
+color: #bebebf;
+font-size: 1rem;
+text-align: center;
 }
 
 @media (max-width: 768px) {
