@@ -104,9 +104,9 @@ aside span {
     font-size: 0.75rem;
     color: #9e9ea0;
 }
-footer p {
+nav footer p {
 color: #bebebf;
-font-size: 1rem;
+font-size: 0.5rem;
 text-align: center;
 }
 
