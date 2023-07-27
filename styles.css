@@ -104,6 +104,11 @@ aside span {
     font-size: 0.75rem;
     color: #9e9ea0;
 }
+footer p {
+    color: #bebebf;
+font-size: 2rem;
+}
+
 @media (max-width: 768px) {
     :root {
         font-size: 14px;
